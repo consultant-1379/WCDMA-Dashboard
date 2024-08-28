@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+    <product-id>CNA 403 3861</product-id>
+    <feature-name>WCDMA Dashboard</feature-name>
+    <release>23.4</release>
+    <system-area>WCDMA</system-area>
+    <datasource-guid>4043328f-88f8-4de6-a73b-30797fad140c</datasource-guid>
+    <ericsson-library>true</ericsson-library> 
+</feature>
